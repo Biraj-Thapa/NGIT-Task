@@ -1,8 +1,9 @@
 import React from "react";
+import Circular from "./shapes/Circular";
 
 const App = () => {
   return <div >
-    hii
+    <Circular/>
 
   </div>;
 };
