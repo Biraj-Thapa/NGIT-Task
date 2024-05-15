@@ -1,10 +1,9 @@
 import React from "react";
-import Circular from "./shapes/Circular";
+import InfiniteScrollCardList from "./components/InfiniteScrollCardList";
 
 const App = () => {
   return <div >
-    <Circular/>
-
+   <InfiniteScrollCardList/>
   </div>;
 };
 
